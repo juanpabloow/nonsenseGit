@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+
+.title {
+    padding: 20px;
+    text-align: center;
+    text-shadow: 2px 2px 3px grey;
+
+}
+
+.silueta {
+    width: 200px;
+    height: auto;
+}
+
+.yellow-face {
+    width: 200px;
+    height: auto;
+}
+
+img {
+    padding: 20px;
+}
+
+.button-container {
+    display: inline;
+    text-align: center;
+    padding: 10px;
+}
+
+.button {
+    padding: 10px;
+}
+
+.title2 {
+    padding: 20px;
+}
+
+.cat {
+    width: 80px;
+}
+
+.yellow-flowers {
+    width: 250px;
+    height: auto;
+}
+
+.yelllow-flowers-container {
+    text-align: center;
+    display: inline;
+}
+
+.button-js {
+    padding: 5px;
+}
+
+.container-button-js {
+    text-align: center;
+}
