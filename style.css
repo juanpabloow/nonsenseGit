@@ -41,12 +41,15 @@ img {
 }
 
 .cat {
-    width: 80px;
+    width: 200px;
 }
 
 .icecream {
-    width: 200px;
+    width: 100px;
     height: auto;
+    position: absolute;
+    right: 70px;
+    top: 150px;
 }
 
 .yelllow-flowers-container {
